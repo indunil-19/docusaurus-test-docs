@@ -14,11 +14,11 @@ const config = {
   url: "https://indunil-19.github.io",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: "/test-doc",
+  baseUrl: "/docusaurus-test-docs",
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "indunil-19", // Usually your GitHub org/user name.
-  projectName: "test-doc", // Usually your repo name.
+  projectName: "docusaurus-test-docs", // Usually your repo name.
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   deploymentBranch: "gh-pages",
